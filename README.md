@@ -1,6 +1,17 @@
 👋 Hi, I’m Abdou-Latifou
 
-I'm a passionate data scientist with a strong mathematical background, currently pursuing advanced studies at AIMS Senegal in the Data Science Program (Program Coop). My research interests lie in statistical modeling, machine learning, and optimization techniques for real-world problems.
+Master’s student in Artificial Intelligence at AIMS Senegal | Data Scientist | Passionate about Extreme Value Theory, Predictive Modeling & AI Solutions
+
+📍 Data Science graduate from Université Gaston Berger
+🎓 Former Class Delegate at UK & UGB | Focal Point Academic at AIMS Senegal
+💻 Python • R • SQL | Machine Learning • Deep Learning • Data Visualization
+🔍 Currently working on Extreme Value Index estimation under truncation
+
+"Turning data into impactful insights and intelligent systems."
+
+
+
+
 👀 Interests
 
     Mathematical and statistical modeling
